@@ -1,0 +1,13 @@
+{
+  "name": "js-interview-coding-task-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "jest": "^26.1.0"
+  }
+}
